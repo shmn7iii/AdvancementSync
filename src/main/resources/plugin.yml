@@ -1,0 +1,6 @@
+name: AdvancementSync
+version: ${project.version}
+main: net.shmn7iii.advancementsync.AdvancementSync
+api-version: 1.16
+prefix: AdsSync
+authors: [ shmn7iii ]
